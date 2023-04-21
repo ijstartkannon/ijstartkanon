@@ -1,4 +1,9 @@
 # ij.start.canon
+
+<div class='buttoncss' style='text-align: center;'>
+<a href='https://ij.setupcanon-ijstart.com/webmanual/'><img alt='canon, canon setup, ij.start.canon' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7UKxgKm34snxNetvB3y05BBSJfWtctH8s63OJBdkWScnbHZ7mqNUT22Tr0nSoU-rVluY-dlfkYhtPgo9JvwrZWBchlqjSVEhYJHy0QCqWlaeScyUbbRKKUE3U46AKCPD1oZnURpSTDwPCegmT-m4YGnlzImtDvMSa_Dr0bpFQah1N-q9yfsLYs3AOA/s320/get%20started%20button.png'/></a>
+</div>
+
 With a Canon IJ printer, you can get the best printing experience. Ij.start.canon is an official site that a Canon printer buyer can reach in order to set up his Canon printer. In order to begin the setup process for your printer through the official site, you can follow the steps below in the described way. Get started with the Canon printer setup process now.
 
 What does ij.start.canon Offer?
